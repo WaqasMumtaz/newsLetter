@@ -1,0 +1,18 @@
+.file-container{
+    margin-top: 20px;
+    
+}
+
+.heading{
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.uploadBtn{
+    margin-top: 75px;
+    background: #20dea4; /* Old browsers */
+    background: -moz-linear-gradient(left,  #20dea4 0%, #63d7df 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #20dea4 0%,#63d7df 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #20dea4 0%,#63d7df 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}

@@ -1,0 +1,17 @@
+.mainSection {
+    display: flex;
+}
+
+.menuSection {
+    left: 0;
+    height: calc(100vh - 60px);
+    width: 76px;
+    position: relative;
+}
+
+.canvasSection {
+    position: relative;
+    width: calc(100% - 75px);
+    height: calc(100vh - 60px);
+    
+}
